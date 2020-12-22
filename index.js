@@ -69,6 +69,15 @@ run().catch(console.log)
 
 /*
 
+{
+  discoveries: string
+  chunks: string[]
+}
+
+{
+  chunk: string
+  discoveries: string
+}
 
 
 */
